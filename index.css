@@ -1,0 +1,57 @@
+/* CSS files add styling rules to your content */
+
+* body {
+  font-family: 'Poppins', sans-serif;
+  margin: 2em;
+  color: #666666;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.logo {
+  margin-top: 50px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: white;
+  margin-left: 480px;
+  margin-right: 120px;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #666666;
+  font-weight: bold;
+  text-align: center;
+  padding: 25px 22px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav .search-container {
+  float: right;
+}
+
+.topnav .search-container button {
+  float: right;
+  padding: 6px 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: white;
+  font-size: 20px;
+  color: #4d4d4d;
+  border: none;
+  cursor: pointer;
+}
