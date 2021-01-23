@@ -3,7 +3,7 @@
 * body {
   font-family: 'Poppins', sans-serif;
   margin: 2em;
-  color: #4d4d4d;
+  color: #404040;
 }
 
 h1 {
@@ -72,6 +72,39 @@ h1 {
 .bestcontainer {
   align:left;
   margin-right: 380px;
+}
+
+hr.blueline {
+  border: 2px solid #206cdf;
+  margin-right: 108px;
+  margin-left: 108px;
+}
+
+.newsfeed {
+  font-weight: bold;
+  margin-right: 108px;
+  margin-left: 108px;
+}
+
+.link {
+  font-weight: bold;
+  color: #206cdf;
+  float: right;
+  margin-right: 108px;
+}
+
+.news {
+  width: 40%;
+  padding: 30px;
+  padding-bottom: 15px;
+  margin-right: 120px;
+  margin-left: 80px;
+  float:left;
+}
+
+
+.newscontainer {
+  align:left;
 }
 
 .lessons {
