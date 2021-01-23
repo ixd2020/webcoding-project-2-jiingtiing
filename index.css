@@ -6,11 +6,6 @@
   color: #404040;
 }
 
-h1 {
-  font-style: italic;
-  color: #373fff;
-}
-
 .center {
   display: block;
   margin-left: auto;
@@ -46,8 +41,7 @@ h1 {
 
 .topnav .search-container button {
   float: right;
-  padding: 6px 6px;
-  margin-top: 8px;
+  margin-top: 25px;
   margin-right: 16px;
   background: white;
   font-size: 20px;
