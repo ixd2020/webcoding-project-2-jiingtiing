@@ -3,7 +3,7 @@
 * body {
   font-family: 'Poppins', sans-serif;
   margin: 2em;
-  color: #666666;
+  color: #4d4d4d;
 }
 
 h1 {
@@ -54,4 +54,60 @@ h1 {
   color: #4d4d4d;
   border: none;
   cursor: pointer;
+}
+
+.best2020 {
+  transition: 0.3s;
+  width: 85%;
+  padding: 30px;
+  padding-bottom: 15px;
+  margin-right: 120px;
+  margin-left: 80px;
+}
+
+.best2020:hover {
+  box-shadow: 0 3px 6px 0 rgb(153, 153, 153);
+}
+
+.bestcontainer {
+  align:left;
+  margin-right: 380px;
+}
+
+.lessons {
+  transition: 0.3s;
+  width: 39%;
+  padding: 30px;
+  padding-bottom: 15px;
+  margin-right: 120px;
+  margin-left: 80px;
+  float:left;
+}
+
+.lessons:hover {
+  box-shadow: 0 3px 6px 0 rgb(153, 153, 153);
+}
+
+.lessonscontainer {
+  align:left;
+  margin-right: 100px;
+}
+
+.playful {
+  transition: 0.3s;
+  width: 39%;
+  padding: 30px;
+  padding-bottom: 15px;
+  margin-right: 120px;
+  margin-left: 80px;
+  float: right;
+}
+
+.playful:hover {
+  box-shadow: 0 3px 6px 0 rgb(153, 153, 153);
+}
+
+.playfulcontainer {
+  align:left;
+  margin-right: 100px;
 }
