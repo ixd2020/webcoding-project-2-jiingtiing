@@ -7,14 +7,14 @@
 }
 
 .logo {
-  margin-left: 80px;
+  margin-left: 4vw;
 }
 
 .topnav {
   overflow: hidden;
   background-color: white;
-  margin-left: 480px;
-  margin-right: 120px;
+  margin-left: 28vw;
+  margin-right: 12vw;
 }
 
 .topnav a {
@@ -23,9 +23,9 @@
   color: #666666;
   font-weight: bold;
   text-align: center;
-  padding: 25px 22px;
+  padding: 2.5vw 2.2vw;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 1.2vw;
 }
 
 .topnav .search-container {
@@ -34,10 +34,10 @@
 
 .topnav .search-container button {
   float: right;
-  margin-top: 25px;
-  margin-right: 16px;
+  margin-top: 2vw;
+  margin-right: 1vw;
   background: white;
-  font-size: 20px;
+  font-size: 1.3vw;
   color: #4d4d4d;
   border: none;
   cursor: pointer;

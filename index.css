@@ -1,7 +1,7 @@
 /* CSS files add styling rules to your content */
 
 * body {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   margin: 2em;
   color: #404040;
 }
@@ -14,14 +14,14 @@
 }
 
 .logo {
-  margin-top: 50px;
+  margin-top: 5vw;
 }
 
 .topnav {
   overflow: hidden;
   background-color: white;
-  margin-left: 480px;
-  margin-right: 120px;
+  margin-left: 28vw;
+  margin-right: 12vw;
 }
 
 .topnav a {
@@ -30,9 +30,9 @@
   color: #666666;
   font-weight: bold;
   text-align: center;
-  padding: 25px 22px;
+  padding: 2.5vw 2.2vw;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 1.2vw;
 }
 
 .topnav .search-container {
@@ -41,10 +41,10 @@
 
 .topnav .search-container button {
   float: right;
-  margin-top: 25px;
-  margin-right: 16px;
+  margin-top: 2.5vw;
+  margin-right: 1.6vw;
   background: white;
-  font-size: 20px;
+  font-size: 1.5vw;
   color: #4d4d4d;
   border: none;
   cursor: pointer;
@@ -53,88 +53,174 @@
 .best2020 {
   transition: 0.3s;
   width: 85%;
-  padding: 30px;
-  padding-bottom: 15px;
-  margin-right: 120px;
-  margin-left: 80px;
+  padding: 2.5vw;
+  padding-bottom: 1.5vw;
+  margin-right: 5vw;
+  margin-left: 5vw;
 }
 
 .best2020:hover {
-  box-shadow: 0 3px 6px 0 rgb(153, 153, 153);
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
 }
 
 .bestcontainer {
-  align:left;
-  margin-right: 380px;
+  align: left;
+  margin-right: 28vw;
 }
 
 hr.blueline {
-  border: 2px solid #206cdf;
-  margin-right: 108px;
-  margin-left: 108px;
+  border: 0.2vw solid #206cdf;
+  margin-right: 6.8vw;
+  margin-left: 6.8vw;
 }
+
+
 
 .newsfeed {
   font-weight: bold;
-  margin-right: 108px;
-  margin-left: 108px;
+  margin-right: 6.8vw;
+  margin-left: 6.8vw;
 }
 
 .link {
   font-weight: bold;
   color: #206cdf;
   float: right;
-  margin-right: 108px;
+  margin-right: 6.8vw;
+  position: relative;
+  top: -4.5vw;
+}
+
+.nanda {
+  position: relative;
+  top: -2vw;
+}
+
+.card1 {
+  position: relative;
+  top: -46vw;
+}
+
+.card2 {
+  position: relative;
+  top: -86vw;
+}
+
+
+#nletter {
+  height: 6vw;
+  background-color: #f2f2f2;
+  position: relative;
+  top: -2vw;
 }
 
 .news {
   width: 40%;
-  padding: 30px;
-  padding-bottom: 15px;
-  margin-right: 120px;
-  margin-left: 80px;
-  float:left;
+  padding: 2.5vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: left;
 }
-
 
 .newscontainer {
-  align:left;
+  align: left;
 }
+
+.sidearticles {
+  width: 40%;
+  padding: 2.5vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: right;
+  position: relative;
+  top: -47.9vw;
+}
+
+.sidearticlescontainer {
+  align: left;
+}
+
 
 .lessons {
   transition: 0.3s;
   width: 39%;
-  padding: 30px;
-  padding-bottom: 15px;
-  margin-right: 120px;
-  margin-left: 80px;
-  float:left;
+  padding: 2.5vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: left;
 }
 
 .lessons:hover {
-  box-shadow: 0 3px 6px 0 rgb(153, 153, 153);
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
 }
 
 .lessonscontainer {
-  align:left;
-  margin-right: 100px;
+  align: left;
+  margin-right: 6vw;
 }
 
 .playful {
   transition: 0.3s;
   width: 39%;
-  padding: 30px;
-  padding-bottom: 15px;
-  margin-right: 120px;
-  margin-left: 80px;
+  padding: 2.5vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
   float: right;
+  position: relative;
+  top: -40vw;
 }
 
 .playful:hover {
-  box-shadow: 0 3px 6px 0 rgb(153, 153, 153);
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
 }
 
 .playfulcontainer {
-  align:left;
-  margin-right: 100px;
+  align: left;
+  margin-right: 6vw;
+}
+
+
+.explorecolor {
+  transition: 0.3s;
+  width: 39%;
+  padding: 2.5vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: left;
+}
+
+.explorecolor:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.explorecolorcontainer {
+  align: left;
+  margin-right: 6vw;
+}
+
+
+.beneath {
+  transition: 0.3s;
+  width: 39%;
+  padding: 2.5vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: right;
+  position: relative;
+  top: -39vw;
+}
+
+.beneath:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.beneathcontainer {
+  align: left;
+  margin-right: 6vw;
 }
