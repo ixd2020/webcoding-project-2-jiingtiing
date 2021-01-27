@@ -10,11 +10,17 @@
   margin-left: 4vw;
 }
 
+.google {
+  margin-left: 5vw;
+}
+
 .topnav {
   overflow: hidden;
   background-color: white;
   margin-left: 28vw;
   margin-right: 12vw;
+  position: relative;
+  top: -6vw;
 }
 
 .topnav a {
@@ -25,7 +31,7 @@
   text-align: center;
   padding: 2.5vw 2.2vw;
   text-decoration: none;
-  font-size: 1.2vw;
+  font-size: 1.1vw;
 }
 
 .topnav .search-container {
@@ -41,4 +47,7 @@
   color: #4d4d4d;
   border: none;
   cursor: pointer;
+  position: relative;
+  top: 0.5vw;
 }
+
