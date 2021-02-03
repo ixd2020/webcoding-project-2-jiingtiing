@@ -76,7 +76,7 @@ hr.blueline {
 
 
 
-.newsfeed {
+.title {
   font-weight: bold;
   margin-right: 6.8vw;
   margin-left: 6.8vw;
@@ -106,6 +106,21 @@ hr.blueline {
   top: -86vw;
 }
 
+.card3 {
+  position: relative;
+  top: -125vw;
+}
+
+.card4 {
+  position: relative;
+  top: -142vw;
+}
+
+
+.TL {
+  position: relative;
+  top: -144vw;
+}
 
 #nletter {
   height: 6vw;
@@ -223,4 +238,124 @@ hr.blueline {
 .beneathcontainer {
   align: left;
   margin-right: 6vw;
+}
+
+.human {
+  transition: 0.3s;
+  width: 39%;
+  padding: 2.5vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: left;
+}
+
+.human:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.humancontainer {
+  align: left;
+  margin-right: 6vw;
+}
+
+
+
+.at {
+  transition: 0.3s;
+  width: 39%;
+  padding: 2.5vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: right;
+  position: relative;
+  top: -40vw;
+}
+
+.at:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.atcontainer {
+  align: left;
+  margin-right:3vw;
+}
+
+.text {
+  width: 25%;
+  padding: 2.5vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: left;
+}
+
+.textcontainer {
+  align: left;
+}
+
+.font {
+  transition: 0.3s;
+  width: 25%;
+  padding: 2vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: left;
+  position: relative;
+  left: -10vw;
+}
+
+.font:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.fontcontainer {
+  align: left;
+  margin-right: 2vw;
+}
+
+.utube {
+  transition: 0.3s;
+  width: 25%;
+  padding: 2vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: right;
+  position: relative;
+  top: -34vw;
+  right: 2.7vw;
+}
+
+.utube:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.utubecontainer {
+  align: left;
+  margin-right: 2vw;
+}
+
+.hot {
+  transition: 0.3s;
+  width: 25%;
+  padding: 2vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: right;
+  position: relative;
+  top: -34vw;
+  right: -61.8vw;
+}
+
+.hot:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.hotcontainer {
+  align: left;
+  margin-right: 2vw;
 }
