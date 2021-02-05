@@ -18,6 +18,7 @@
 }
 
 .topnav {
+  width:64%;
   overflow: hidden;
   background-color: white;
   margin-left: 28vw;
