@@ -133,6 +133,16 @@ hr.blueline {
   top: -237vw;
 }
 
+.card8 {
+  position: relative;
+  top: -256.8vw;
+}
+
+.card9 {
+  position: relative;
+  top: -278.8vw;
+}
+
 #nletter {
   height: 6vw;
   background-color: #f2f2f2;
@@ -331,7 +341,7 @@ hr.blueline {
   margin-left: 4.5vw;
   float: right;
   position: relative;
-  top: -34vw;
+  top: -33.9vw;
   right: 2.7vw;
 }
 
@@ -353,7 +363,7 @@ hr.blueline {
   margin-left: 4.5vw;
   float: right;
   position: relative;
-  top: -34vw;
+  top: -33.9vw;
   right: -61.8vw;
 }
 
@@ -491,6 +501,130 @@ hr.blueline {
 }
 
 .towardscontainer {
+  align: left;
+  margin-right: 6vw;
+}
+
+.space {
+  transition: 0.3s;
+  width: 25%;
+  padding: 2vw;
+  padding-bottom: 3.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: left;
+}
+
+.space:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.spacecontainer {
+  align: left;
+  margin-right: 1.5vw;
+}
+
+.paper {
+  transition: 0.3s;
+  width: 25%;
+  padding: 2vw;
+  padding-bottom: 3.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: left;
+  position: relative;
+  right: 9vw;
+}
+
+.paper:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.papercontainer {
+  align: left;
+  margin-right: 1.5vw;
+}
+
+.book {
+  transition: 0.3s;
+  width: 25%;
+  padding: 2vw;
+  padding-bottom: 3.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: right;
+  position: relative;
+  top: -32.7vw;
+  right: 2.7vw;
+}
+
+.book:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.bookcontainer {
+  align: left;
+  margin-right: 2vw;
+}
+
+.woma {
+  transition: 0.3s;
+  width: 25%;
+  padding: 2vw;
+  padding-bottom: 3.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: right;
+  position: relative;
+  top: -32.7vw;
+  right: -61.8vw;
+}
+
+.woma:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.womacontainer {
+  align: left;
+  margin-right: 1.5vw;
+}
+
+.future {
+  transition: 0.3s;
+  width: 39%;
+  padding: 2.5vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: left;
+}
+
+.future:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.futurecontainer {
+  align: left;
+  margin-right: 6vw;
+}
+
+.good {
+  transition: 0.3s;
+  width: 39%;
+  padding: 2.5vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: right;
+  position: relative;
+  top: -39.2vw;
+}
+
+.good:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.goodcontainer {
   align: left;
   margin-right: 6vw;
 }
