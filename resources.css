@@ -1,0 +1,396 @@
+.MD {
+  transition: 0.3s;
+  width: 84%;
+  height: 26.4vw;
+  padding: 2vw;
+  padding-bottom: 1.5vw;
+  margin-right: 5vw;
+  margin-left: 5vw;
+  position: relative;
+  top: -2vw;
+}
+
+.MD:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.MDcontainertext {
+  width: 23vw;
+  height: 26.5vw;
+  float: left;
+  align: left;
+  margin-right: 22vw;
+  position: relative;
+  top: -26.4vw;
+}
+
+hr.blackline {
+  border: 0.2vw solid black;
+  margin-right: 6.8vw;
+  margin-left: 6.8vw;
+}
+
+hr.blueline {
+  border: 0.2vw solid #206cdf;
+  margin-right: 6.8vw;
+  margin-left: 6.8vw;
+}
+
+.GF {
+  transition: 0.3s;
+  width: 84%;
+  height: 26.4vw;
+  padding: 2vw;
+  padding-bottom: 1.5vw;
+  margin-right: 5vw;
+  margin-left: 5vw;
+  position: relative;
+  top: -2vw;
+}
+
+.GF:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.GFcontainertext {
+  width: 23vw;
+  height: 26.5vw;
+  float: left;
+  align: left;
+  margin-right: 22vw;
+  position: relative;
+  top: -26vw;
+}
+
+.card1 {
+  position: relative;
+  top: -43vw;
+}
+
+.card2 {
+  position: relative;
+  top: -69.8vw;
+}
+
+.card3 {
+  position: relative;
+  top: -69.8vw;
+}
+
+.card4 {
+  position: relative;
+  top: -69.8vw;
+}
+
+.ppl {
+  transition: 0.3s;
+  width: 25%;
+  padding: 2vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: left;
+  position: relative;
+  top: 25.6vw;
+  left: -51.4vw;
+}
+
+.ppl:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.pplcontainer {
+  align: left;
+  margin-right: 0.5vw;
+}
+
+hr.line1 {
+  border: 0.2vw solid #1f6040;
+  margin-right: 6.8vw;
+  margin-left: 6.8vw;
+}
+
+.action {
+  transition: 0.3s;
+  width: 25%;
+  padding: 2vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: right;
+  position: relative;
+  top: -1.2vw;
+  left: -29.6vw;
+}
+
+.action:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.actioncontainer {
+  align: left;
+  margin-right: 0.5vw;
+}
+
+hr.line2 {
+  border: 0.2vw solid #cc0000;
+  margin-right: 6.8vw;
+  margin-left: 6.8vw;
+}
+
+.design {
+  transition: 0.3s;
+  width: 25%;
+  padding: 2vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: right;
+  position: relative;
+  top: -1.2vw;
+  right: -35vw;
+}
+
+.design:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.designcontainer {
+  align: left;
+  margin-right: 0.5vw;
+}
+
+hr.line3 {
+  border: 0.2vw solid #003cb3;
+  margin-right: 6.8vw;
+  margin-left: 6.8vw;
+}
+
+.cardb {
+  transition: 0.3s;
+  width: 25%;
+  padding: 2vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: left;
+  position: relative;
+  top: 25.6vw;
+  left: 0.6vw;
+}
+
+.cardb:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.cardbcontainer {
+  align: left;
+  margin-right: 0.5vw;
+}
+
+hr.line4 {
+  border: 0.2vw solid #804000;
+  margin-right: 6.8vw;
+  margin-left: 6.8vw;
+}
+
+.wear {
+  transition: 0.3s;
+  width: 25%;
+  padding: 2vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: right;
+  position: relative;
+  top: 25.6vw;
+  left: -29.6vw;
+}
+
+.wear:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.wearcontainer {
+  align: left;
+  margin-right: 0.5vw;
+}
+
+hr.line5 {
+  border: 0.2vw solid #002266;
+  margin-right: 6.8vw;
+  margin-left: 6.8vw;
+}
+
+.fire {
+  transition: 0.3s;
+  width: 25%;
+  padding: 2vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: right;
+  position: relative;
+  top: -1.2vw;
+  right: 1.7vw;
+}
+
+.fire:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.firecontainer {
+  align: left;
+  margin-right: 0.5vw;
+}
+
+hr.line6 {
+  border: 0.2vw solid #ffa31a;
+  margin-right: 6.8vw;
+  margin-left: 6.8vw;
+}
+
+.an {
+  transition: 0.3s;
+  width: 25%;
+  padding: 2vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: left;
+  position: relative;
+  top: 25.6vw;
+  left: 0.6vw;
+}
+
+.an:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.ancontainer {
+  align: left;
+  margin-right: 0.5vw;
+}
+
+hr.line7 {
+  border: 0.2vw solid #e60000;
+  margin-right: 6.8vw;
+  margin-left: 6.8vw;
+}
+
+.pol {
+  transition: 0.3s;
+  width: 25%;
+  padding: 2vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: right;
+  position: relative;
+  top: -1.2vw;
+  left: -29.6vw;
+}
+
+.pol:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.polcontainer {
+  align: left;
+  margin-right: 0.5vw;
+}
+
+hr.line8 {
+  border: 0.2vw solid #002699;
+  margin-right: 6.8vw;
+  margin-left: 6.8vw;
+}
+
+.auto {
+  transition: 0.3s;
+  width: 25%;
+  padding: 2vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: right;
+  position: relative;
+  top: -1.2vw;
+  right: -35vw;
+}
+
+.auto:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.autocontainer {
+  align: left;
+  margin-right: 0.5vw;
+}
+
+hr.line9 {
+  border: 0.2vw solid #00ace6;
+  margin-right: 6.8vw;
+  margin-left: 6.8vw;
+}
+
+.tv {
+  transition: 0.3s;
+  width: 25%;
+  padding: 2vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: left;
+  position: relative;
+  top: -1.2vw;
+  left: 0.6vw;
+}
+
+.tv:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.tvcontainer {
+  align: left;
+  margin-right: 0.5vw;
+}
+
+hr.line10 {
+  border: 0.2vw solid #1ac6ff;
+  margin-right: 6.8vw;
+  margin-left: 6.8vw;
+}
+
+.ard {
+  transition: 0.3s;
+  width: 25%;
+  padding: 2vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: right;
+  position: relative;
+  top: -1.2vw;
+  left: -29.6vw;
+}
+
+.ard:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.ardcontainer {
+  align: left;
+  margin-right: 0.5vw;
+}
+
+hr.line11 {
+  border: 0.2vw solid #003399;
+  margin-right: 6.8vw;
+  margin-left: 6.8vw;
+}
+
+.footer {
+  position: relative;
+  top: -76vw;
+}

@@ -143,6 +143,11 @@ hr.blueline {
   top: -278.8vw;
 }
 
+.card10 {
+  position: relative;
+  top: -318vw;
+}
+
 #nletter {
   height: 6vw;
   background-color: #f2f2f2;
@@ -627,4 +632,50 @@ hr.blueline {
 .goodcontainer {
   align: left;
   margin-right: 6vw;
+}
+
+.award {
+  transition: 0.3s;
+  width: 39%;
+  padding: 2.5vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: left;
+}
+
+.award:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.awardcontainer {
+  align: left;
+  margin-right: 6vw;
+}
+
+.the {
+  transition: 0.3s;
+  width: 39%;
+  padding: 2.5vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: right;
+  position: relative;
+  top: -39.2vw;
+}
+
+.the:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.thecontainer {
+  align: left;
+  margin-right: 2vw;
+}
+
+.footer {
+  float: left;
+  position: relative;
+  top: -340vw;
 }
