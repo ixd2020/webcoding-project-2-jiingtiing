@@ -18,7 +18,7 @@
 }
 
 .topnav {
-  width:64%;
+  width: 64%;
   overflow: hidden;
   background-color: white;
   margin-left: 28vw;
@@ -75,8 +75,6 @@ hr.blueline {
   margin-left: 6.8vw;
 }
 
-
-
 .title {
   font-weight: bold;
   margin-right: 6.8vw;
@@ -88,8 +86,11 @@ hr.blueline {
   color: #206cdf;
   float: right;
   margin-right: 6.8vw;
+}
+
+.TL {
   position: relative;
-  top: -4.5vw;
+  top: -144vw;
 }
 
 .nanda {
@@ -117,10 +118,19 @@ hr.blueline {
   top: -142vw;
 }
 
-
-.TL {
+.card5 {
   position: relative;
-  top: -144vw;
+  top: -160vw;
+}
+
+.card6 {
+  position: relative;
+  top: -198vw;
+}
+
+.card7 {
+  position: relative;
+  top: -237vw;
 }
 
 #nletter {
@@ -158,7 +168,6 @@ hr.blueline {
   align: left;
 }
 
-
 .lessons {
   transition: 0.3s;
   width: 39%;
@@ -187,7 +196,7 @@ hr.blueline {
   margin-left: 4.5vw;
   float: right;
   position: relative;
-  top: -40vw;
+  top: -40.3vw;
 }
 
 .playful:hover {
@@ -198,7 +207,6 @@ hr.blueline {
   align: left;
   margin-right: 6vw;
 }
-
 
 .explorecolor {
   transition: 0.3s;
@@ -219,7 +227,6 @@ hr.blueline {
   margin-right: 6vw;
 }
 
-
 .beneath {
   transition: 0.3s;
   width: 39%;
@@ -229,7 +236,7 @@ hr.blueline {
   margin-left: 4.5vw;
   float: right;
   position: relative;
-  top: -39vw;
+  top: -39.2vw;
 }
 
 .beneath:hover {
@@ -260,8 +267,6 @@ hr.blueline {
   margin-right: 6vw;
 }
 
-
-
 .at {
   transition: 0.3s;
   width: 39%;
@@ -280,7 +285,7 @@ hr.blueline {
 
 .atcontainer {
   align: left;
-  margin-right:3vw;
+  margin-right: 3vw;
 }
 
 .text {
@@ -359,4 +364,133 @@ hr.blueline {
 .hotcontainer {
   align: left;
   margin-right: 2vw;
+}
+
+.button {
+  margin-right: 6.8vw;
+  background-color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 90%;
+  box-shadow: 0 0.1vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.here {
+  transition: 0.3s;
+  width: 39%;
+  padding: 2.5vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: left;
+}
+
+.here:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.herecontainer {
+  align: left;
+  margin-right: 6vw;
+}
+
+.fab {
+  transition: 0.3s;
+  width: 39%;
+  padding: 2.5vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: right;
+  position: relative;
+  top: -40.3vw;
+}
+
+.fab:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.fabcontainer {
+  align: left;
+  margin-right: 6vw;
+}
+
+.siin {
+  transition: 0.3s;
+  width: 39%;
+  padding: 2.5vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: left;
+}
+
+.siin:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.siincontainer {
+  align: left;
+  margin-right: 6vw;
+}
+
+.threede {
+  transition: 0.3s;
+  width: 39%;
+  padding: 2.5vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: right;
+  position: relative;
+  top: -39.2vw;
+}
+
+.threede:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.threedecontainer {
+  align: left;
+  margin-right: 1vw;
+}
+
+.im {
+  transition: 0.3s;
+  width: 39%;
+  padding: 2.5vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: left;
+}
+
+.im:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.imcontainer {
+  align: left;
+  margin-right: 3vw;
+}
+
+.towards {
+  transition: 0.3s;
+  width: 39%;
+  padding: 2.5vw;
+  padding-bottom: 1.5vw;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  float: right;
+  position: relative;
+  top: -26.7vw;
+}
+
+.towards:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.towardscontainer {
+  align: left;
+  margin-right: 6vw;
 }
