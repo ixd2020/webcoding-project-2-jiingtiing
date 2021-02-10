@@ -394,3 +394,74 @@ hr.line11 {
   position: relative;
   top: -76vw;
 }
+
+@media screen and (max-width: 600px) {
+  .MDcontainertext {
+  top: -22vw;
+}
+  
+  .GF {
+  top: 2vw;
+}
+  
+  .GFcontainertext {
+  top: -20vw;
+}
+  
+  .ppl {
+  top: 7vw;
+  left: 0.9vw;
+}
+  
+  .action {
+  top: 7vw;
+  left: -24vw;
+}
+  
+  .design {
+  top: -25.5vw;
+  right: 0.5vw;
+}
+  
+  .cardb {
+  top: 35.6vw;
+  left: 0.6vw;
+}
+  
+  .wear {
+  top: 7.8vw;
+  left: -23.6vw;
+}
+  
+  .fire {
+  top: 1.2vw;
+  right: -35vw;
+}
+  
+  .an {
+  top: 7.6vw;
+  left: 0.6vw;
+}
+  
+  .pol {
+  top: 7.8vw;
+  left: -23.6vw;
+}
+  
+  .auto {
+  top: -26.6vw;
+  right: -35vw;
+}
+  
+  .tv {
+  top: -25vw;
+  left: 0.6vw;
+}
+  
+  .ard {
+  top: -25vw;
+  left: -23vw;
+}
+
+  
+}

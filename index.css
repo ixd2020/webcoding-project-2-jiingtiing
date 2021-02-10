@@ -679,3 +679,22 @@ hr.blueline {
   position: relative;
   top: -340vw;
 }
+
+
+@media screen and (max-width: 600px) {
+ .font {
+  top: -1vw;
+  left: -10vw;
+}
+  
+  .utube {
+  top: -42.9vw;
+  right: -0.5vw;
+}
+  
+  .hot {
+  top: -42.9vw;
+  right: -58.8vw;
+}
+  
+}
